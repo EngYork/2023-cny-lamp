@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/home/david/Documents/ShockSoc/cny lamp/cny lamp.kicad_sch</source>
-    <date>Sat 07 Jan 2023 15:38:45 GMT</date>
+    <date>Sat 14 Jan 2023 22:22:23 GMT</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -157,7 +157,7 @@
       <tstamps>5f035aa4-c633-4c97-bbce-4079704b7e05</tstamps>
     </comp>
     <comp ref="Q1">
-      <value>NX6008NBKWX</value>
+      <value>DMN63D8LW-7</value>
       <footprint>Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/NX6008NBKW.pdf</datasheet>
       <fields>
@@ -198,7 +198,7 @@
       <tstamps>6882b8c5-d881-4b9b-bb9d-40cdcf6d426a</tstamps>
     </comp>
     <comp ref="R4">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value=""/>
@@ -486,7 +486,7 @@
       <tstamps>9ce02831-8ba8-473e-8f3d-d8d9a7ebf4b7</tstamps>
     </comp>
     <comp ref="R13">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -495,7 +495,7 @@
       <tstamps>214e3ebd-4225-4fc7-b28e-242aaf05f711</tstamps>
     </comp>
     <comp ref="R14">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -504,7 +504,7 @@
       <tstamps>06eed5b4-1eab-4c1d-9b32-6a11fdabb4c6</tstamps>
     </comp>
     <comp ref="R15">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -513,7 +513,7 @@
       <tstamps>78c85d11-fc93-4232-913b-3a682e7b001a</tstamps>
     </comp>
     <comp ref="R16">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -522,7 +522,7 @@
       <tstamps>6f5d242e-9eff-4e30-8cd6-053de74a538a</tstamps>
     </comp>
     <comp ref="R17">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -531,7 +531,7 @@
       <tstamps>e57fed16-1ca4-44ba-8cbf-0042355d981f</tstamps>
     </comp>
     <comp ref="R18">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -540,7 +540,7 @@
       <tstamps>cac23b6a-c767-4caf-bede-a27952bc6168</tstamps>
     </comp>
     <comp ref="R19">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -549,7 +549,7 @@
       <tstamps>74aa3fa1-388e-42f0-9d19-9fb6058b76ae</tstamps>
     </comp>
     <comp ref="R20">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -558,7 +558,7 @@
       <tstamps>7cca3ee8-9951-4db8-ad46-23a76de22ec9</tstamps>
     </comp>
     <comp ref="R21">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -567,7 +567,7 @@
       <tstamps>ee89aa93-1a52-41a8-97a4-4ae4990fe68d</tstamps>
     </comp>
     <comp ref="R22">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -576,7 +576,7 @@
       <tstamps>0956e18d-b4f1-4fbb-b739-347702a5c522</tstamps>
     </comp>
     <comp ref="R23">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -585,7 +585,7 @@
       <tstamps>7833f398-8b20-4ec3-99a6-0e1165e26c06</tstamps>
     </comp>
     <comp ref="R24">
-      <value>500</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="Rabbit LEDs"/>
@@ -774,7 +774,7 @@
       <tstamps>aac25a22-c957-423f-b857-04031b1eaab8</tstamps>
     </comp>
     <comp ref="Q2">
-      <value>NX6008NBKWX</value>
+      <value>DMN63D8LW-7</value>
       <footprint>Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/NX6008NBKW.pdf</datasheet>
       <fields>
@@ -788,7 +788,7 @@
       <tstamps>48ec6e18-bfcf-4fb0-9ee3-b5cf5ef1b123</tstamps>
     </comp>
     <comp ref="R25">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -797,7 +797,7 @@
       <tstamps>b27e7ea1-edfb-4134-9375-7ceeeb80dd87</tstamps>
     </comp>
     <comp ref="R26">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -806,7 +806,7 @@
       <tstamps>03d1aa45-a7c7-4b49-9703-76401a97ce89</tstamps>
     </comp>
     <comp ref="R27">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -815,7 +815,7 @@
       <tstamps>7224b17f-430a-43cb-a5ec-3f8d5041f443</tstamps>
     </comp>
     <comp ref="R28">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -824,7 +824,7 @@
       <tstamps>9ee2efcf-272a-45be-8b30-2e0ff29cc183</tstamps>
     </comp>
     <comp ref="R29">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -833,7 +833,7 @@
       <tstamps>e4aa56f7-0b31-45e8-b951-d0f6a765c48a</tstamps>
     </comp>
     <comp ref="R30">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -842,7 +842,7 @@
       <tstamps>2e79505d-6ba4-4669-91f8-68c11fa342d5</tstamps>
     </comp>
     <comp ref="R31">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -851,7 +851,7 @@
       <tstamps>fc8e4f50-6d7f-47f0-a6f3-aa2f1a4cbd3f</tstamps>
     </comp>
     <comp ref="R32">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -860,7 +860,7 @@
       <tstamps>f3359847-66d5-4956-b2ce-3a141074eb05</tstamps>
     </comp>
     <comp ref="R33">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -869,7 +869,7 @@
       <tstamps>7aed86b9-fc68-4df3-8490-7774b42fad46</tstamps>
     </comp>
     <comp ref="R34">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -878,7 +878,7 @@
       <tstamps>6ba7a6a5-26c2-429b-ac6b-75366cf42b94</tstamps>
     </comp>
     <comp ref="R35">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -887,7 +887,7 @@
       <tstamps>e3bf929b-b2fd-4450-a6f7-5147b73c1468</tstamps>
     </comp>
     <comp ref="R36">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -896,7 +896,7 @@
       <tstamps>49b8464f-4f5b-4ec2-9b42-4675504511c7</tstamps>
     </comp>
     <comp ref="R37">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -905,7 +905,7 @@
       <tstamps>b237d66f-cf24-4baa-96ac-32a1ee9b7daf</tstamps>
     </comp>
     <comp ref="R38">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -914,7 +914,7 @@
       <tstamps>aef8d1e6-2167-42bd-a4c8-9817e851d7e1</tstamps>
     </comp>
     <comp ref="R39">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -923,7 +923,7 @@
       <tstamps>0d65cfd2-e7cd-43a4-be37-9317ecec9aa6</tstamps>
     </comp>
     <comp ref="R40">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -932,7 +932,7 @@
       <tstamps>607b95e5-6de2-44e0-9372-ebed25d2719b</tstamps>
     </comp>
     <comp ref="R41">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -941,7 +941,7 @@
       <tstamps>561a2c0c-2762-4761-8cc4-6d463b9e24e3</tstamps>
     </comp>
     <comp ref="R42">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -950,7 +950,7 @@
       <tstamps>13a65a87-2799-451f-a691-9b94b245076b</tstamps>
     </comp>
     <comp ref="R43">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>
@@ -959,7 +959,7 @@
       <tstamps>c9787283-94f6-4b8c-a553-2c6d43b259bb</tstamps>
     </comp>
     <comp ref="R44">
-      <value>200</value>
+      <value>82</value>
       <footprint>Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder</footprint>
       <libsource lib="Device" part="R" description="Resistor"/>
       <property name="Sheetname" value="LEDs"/>

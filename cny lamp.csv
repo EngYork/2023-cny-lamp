@@ -1,22 +1,19 @@
-Source:,/home/david/Documents/ShockSoc/cny lamp/cny lamp.kicad_sch,,,Spare Comps:,2,Boards to Build:,35,,,,,
-Date:,Sat 07 Jan 2023 15:38:45 GMT,,,,,Cost/Board:,8.436,,,,,
-Tool:,Eeschema (6.0.9),,,,,Total Cost:,303.22,,,,,
-Generator:,/usr/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py,,,,,,,,,,,
-Component Count:,90,,,,,,,,,,,
-Ref,Qnty,Quantity for All Boards (+Spares),Value,Cmp name,Footprint,Description,Vendor,Part Number,Price (£),Total Cost/Board (£),Sum Cost (£),Distributor Link
-NiMH AAA Cell,2,70,,AAA Cell,N/A,AAA Cell,Poundland,,0.167,0.334,11.69,Purchase Separately
-"BT1, ",1,37,2*AAA,Battery Holder,Battery:BatteryHolder_Keystone_2468_2xAAA,Multiple-cell battery,Keystone,2468,0.784,0.784,29.008,https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/2468?qs=3CbvriavsLAoISGi3MywrQ%3D%3D
-"C1, C2, C3, C4, C5, C6, C7, ",7,247,1u,C,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,Unpolarized capacitor,Samsung,CL31B105KBHNFNE,0.04,0.28,9.88,https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL31B105KBHNFNE?qs=sGAEpiMZZMsh%252B1woXyUXj4hdzsxBU3nxXdDxGdPaX9g%3D
-"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, ",12,422,Yellow/Orange/W.White,LED,LED_THT:LED_D5.0mm,Light emitting diode,Kingbright,WP1503YC,0.101,1.212,42.622,https://www.mouser.co.uk/ProductDetail/Kingbright/WP1503YC?qs=sGAEpiMZZMvHYEB9WUp7Eo9I4xS6qgPtlqd1jfqBVJ8%3D
-"D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, ",20,702,Red,LED,LED_THT:LED_D5.0mm,Light emitting diode,Kingbright,WP1503EC,0.09,1.8,63.18,https://www.mouser.co.uk/ProductDetail/Kingbright/WP1503EC?qs=sGAEpiMZZMvHYEB9WUp7Eo9I4xS6qgPtONGLmsvopH4%3D
-"Q1, Q2, ",2,72,DMN63D8LW-7,DMN63D8LW-7,Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering,"N-Channel MOSFET, SOT-323",Diodes Inc,DMN63D8LW-7,0.099,0.198,7.128,https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/DMN63D8LW-7?qs=nQSIdc08i%252BdeaOzEDVtdYQ%3D%3D
-"R1, R2, R3, R5, R6, R8, R10, ",7,247,100k,R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Resistor,Bourns, CR1206-FX-1003ELF,0.017,0.119,4.199,https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-FX-1003ELF?qs=sGAEpiMZZMvdGkrng054t%252BRNGJdg958RSXQE%2FDejoiQ%3D
-"R4, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, ",33,1157,82,R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Resistor,Bourns, CR1206-FX-82R0ELF ,0.017,0.561,19.669,https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-FX-82R0ELF?qs=sGAEpiMZZMvdGkrng054t%252BRNGJdg958RTSNV6gqO0f8%3D
-"R7, ",1,37,390k,R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Resistor,Bourns, CR1206-FX-3903ELF ,0.04,0.04,1.48,https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-FX-3903ELF?qs=sGAEpiMZZMtlubZbdhIBIP6knnx022%2F7hraPZo8XHWc%3D
-"R9, ",1,37,220k,R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Resistor,Bourns, CR1206-JW-224ELF ,0.037,0.037,1.369,https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-JW-224ELF?qs=sGAEpiMZZMtlubZbdhIBILCQcJqP0qAynTiS9%252BW2U7U%3D
-"R11, ",1,37,2.7M,R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Resistor,Bourns, CR1206-JW-275ELF ,0.037,0.037,1.369,https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-JW-275ELF?qs=sGAEpiMZZMtlubZbdhIBILCQcJqP0qAyL3PLKn324KA%3D
-"R12, ",1,37,1.5M,R,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,Resistor,Bourns, CR1206-JW-155ELF ,0.037,0.037,1.369,https://www.mouser.co.uk/ProductDetail/Bourns/CR1206-JW-155ELF?qs=sGAEpiMZZMtlubZbdhIBIPO%2FqHb6Dwnqy52TdlJihIc%3D
-"SW1, ",1,37,MHSS1104,SW_SPDT,Library:MHSS1104,"Switch, single pole double throw",APEM,MHSS1104,0.54,0.54,19.98,https://www.mouser.co.uk/ProductDetail/Apem/MHSS1104?qs=pNV45xh2Ia0Qd2iCcgHqxg%3D%3D
-"U1, ",1,37,TC75W56,TC75W56FK,Package_SO:VSSOP-8_2.3x2mm_P0.5mm,"Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8",Toshiba,TC75W56FK,0.345,0.345,12.765,https://www.mouser.co.uk/ProductDetail/Toshiba/TC75W56FKLF?qs=lX6dEUlT%252Bgcxje8Q1nYZWw%3D%3D
-"U2, U3, ",2,72,74HC164,74HC164,Package_SO:SOIC-14_3.9x8.7mm_P1.27mm,8-bit serial-in parallel-out shift register,Onsemi,MC74HC164ADR2G,0.316,0.632,22.752,https://www.mouser.co.uk/ProductDetail/onsemi/MC74HC164ADR2G?qs=sGAEpiMZZMswyCOIqqEmewX%252BK97tqWFf8fFcwVIDSoo%3D
-PCB,1,37,,PCB,N/A,Board,JLC,,1.48,1.48,54.76,Purchased
+"Source:","/home/david/Documents/ShockSoc/cny lamp/cny lamp.kicad_sch"
+"Date:","Sat 14 Jan 2023 22:22:23 GMT"
+"Tool:","Eeschema (6.0.9)"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","90"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"BT1, ","1","2*AAA","Battery","Battery:BatteryHolder_Keystone_2468_2xAAA","Multiple-cell battery",""
+"C1, C2, C3, C4, C5, C6, C7, ","7","1u","C","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","Unpolarized capacitor",""
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, ","32","LED","LED","LED_THT:LED_D5.0mm","Light emitting diode",""
+"Q1, Q2, ","2","DMN63D8LW-7","BSN20","Package_TO_SOT_SMD:SOT-323_SC-70_Handsoldering","0.5A Id, 50V Vds, N-Channel MOSFET, SOT-23",""
+"R1, R2, R3, R5, R6, R8, R10, ","7","100k","R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor",""
+"R4, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, ","33","82","R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor",""
+"R7, ","1","390k","R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor",""
+"R9, ","1","200k","R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor",""
+"R11, ","1","2.7M","R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor",""
+"R12, ","1","1.5M","R","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","Resistor",""
+"SW1, ","1","MHSS1104","SW_SPDT","Library:MHSS1104","Switch, single pole double throw",""
+"U1, ","1","TC75W56","TC75W56","Package_SO:VSSOP-8_2.3x2mm_P0.5mm","Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/SOP-8/TSSOP-8/VSSOP-8",""
+"U2, U3, ","2","74HC164","74HC164","Package_SO:SOIC-14_3.9x8.7mm_P1.27mm","8-bit serial-in parallel-out shift register",""
